@@ -987,7 +987,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 }
 
 .intro-text {
-    font-size: 10em;
+    font-size: 5em;
     font-weight: bold;
     text-align: center;
     color: #8B0000; /* Dark red color for the text */
